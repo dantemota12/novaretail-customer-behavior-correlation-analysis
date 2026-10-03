@@ -68,4 +68,7 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · SciPy · Jupyter Notebook
 ## Files
 - `sprint_8_-_cuaderno_de_jupiter_-_S8_Student_Version-Project-NovaRetail.ipynb`: full analysis notebook (exploration, correlation analysis and business interpretation).
 - `images/`: screenshots of the charts.
+  
+- [Download the Power BI dashboard (.pbix) from Google Drive](https://drive.google.com/file/d/1EFNhJx2Qx-u7Y7nCvOB0xOWwHfq0iiz7/view?usp=sharing)
+
 - [Download the notebook from Google Drive](https://drive.google.com/file/d/1YhZGXb_6jyP1V5Pu4U0b8H-kHsfpyvx4/view?usp=sharing)
